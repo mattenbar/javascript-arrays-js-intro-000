@@ -5,7 +5,7 @@
   'skittles'
 ]
 
-function addElementToBeginningOfArray (element){
+function addElementToBeginningOfArray (){
   var array [];
   array.unshift(element)
 
