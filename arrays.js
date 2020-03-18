@@ -20,5 +20,13 @@ function addElementToEndOfArray(array, element){
 }
 
 function destructivelyAddElementToEndOfArray(array, element){
-  
+
+}
+
+function accessElementInArray(array, index){
+
+}
+
+function destructivelyRemoveElementFromBeginningOfArray(array){
+
 }
