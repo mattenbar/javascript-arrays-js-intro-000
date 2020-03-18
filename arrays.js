@@ -6,7 +6,7 @@
 ]
 
 function addElementToBeginningOfArray (array, element){
-  var array = array
+  var array 
   [element,...array]
   return array
 
