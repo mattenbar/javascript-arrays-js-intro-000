@@ -5,8 +5,10 @@
   'skittles'
 ]
 
-function addElementToBeginningOfArray (){
+function addElementToBeginningOfArray (array, element){
+  var array = array
   array.unshift(element)
+  return array
 
 
 }
