@@ -30,3 +30,11 @@ function accessElementInArray(array, index){
 function destructivelyRemoveElementFromBeginningOfArray(array){
 
 }
+
+function removeElementFromBeginningOfArray(array){
+
+}
+
+function destructivelyRemoveElementFromEndOfArray(array){
+  
+}
