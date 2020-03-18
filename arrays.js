@@ -1,4 +1,3 @@
- var chocolateBars = new array();
  var chocolateBars = [
   'snickers',
   'hundred grand',
