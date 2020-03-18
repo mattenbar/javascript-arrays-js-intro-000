@@ -8,5 +8,5 @@ var chocolateBars = [
 var arrays = []
 
 function addElementToBeginningOfArray (arrays, element){
-  arrays.push(element)
+  var arrays.push(element)
 }
