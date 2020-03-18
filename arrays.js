@@ -5,10 +5,12 @@ var chocolateBars = [
   'skittles'
 ]
 
-function addElementToBeginningOfArray ('array' , 'element'){
-  var array = []
+function addElementToBeginningOfArray (array , element){
+  var newArray = array [];
+  var element = element;
+  newArray.push(element);
 }
 
 function destructivelyAddElementToBeginningOfArray (){
-  
+
 }
