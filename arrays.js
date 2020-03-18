@@ -5,14 +5,14 @@
   'skittles'
 ]
 
-function addElementToBeginningOfArray (array, element){
-  var array = []
-  array.unshift(element);
+function addElementToBeginningOfArray (element){
+  var array [];
+  array.unshift(element)
 
 
 }
 
 function destructivelyAddElementToBeginningOfArray (array, element){
-  var array = [array.unshift(element)]
+  var array = []
 
 }
